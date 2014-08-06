@@ -15,20 +15,20 @@
 
 - topic: How to write a letter in LibreOffice Writer
   filename: t-writer.html
-  child: false
+  child: true
   publish: true
 
 - topic: How to create a spreadsheet in LibreOffice Calc
   filename: t-calc.html
-  child: false
+  child: true
   publish: true
 
 - topic: How to create a presentation in LibreOffice Impress
   filename: t-impress.html
-  child: false
+  child: true
   publish: true
 
-- topic: Nutritional recommendations for monkeys
-  filename: r-nutrition.html
+- topic: Additional Help
+  filename: r-help.html
   child: false
   publish: true
